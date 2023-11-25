@@ -1,9 +1,6 @@
 Day,Weather (f1),Temperature (f2),Humidity (f3),Wind (f4),Play Football (class)
 1,Sunny,hot,high,weak,No
-2,Sunny,hot,high,Strong,No
-3,cloudy,hot,high,weak,Yes
-4,rainy,mild,high,weak,Yes
-5,rainy,cold ,normal,weak,Yes
+2,Sunny,hotmal,weak,Yes
 6,rainy,cold ,normal,Strong,No
 7,cloudy,cold ,normal,Strong,Yes
 8,sunny,mild,high,weak,No
@@ -12,4 +9,4 @@ Day,Weather (f1),Temperature (f2),Humidity (f3),Wind (f4),Play Football (class)
 11,sunny,mild,normal,Strong,Yes
 12,cloudy,mild,high,Strong,Yes
 13,cloudy,hot,normal,weak,Yes
-14,rainy,mild,high,Strong,No
+14,rainy,mild,high,St
