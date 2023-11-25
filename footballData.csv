@@ -1,0 +1,15 @@
+Day,WeatherF1,TemperatureF2,HumidityF3,WindF4,PlayFootballClass
+1,Sunny,hot,high,weak,No
+2,Sunny,hot,high,Strong,No
+3,cloudy,hot,high,weak,Yes
+4,rainy,mild,high,weak,Yes
+5,rainy,cold ,normal,weak,Yes
+6,rainy,cold ,normal,Strong,No
+7,cloudy,cold ,normal,Strong,Yes
+8,sunny,mild,high,weak,No
+9,sunny,cold ,normal,weak,Yes
+10,rainy,mild,normal,weak,Yes
+11,sunny,mild,normal,Strong,Yes
+12,cloudy,mild,high,Strong,Yes
+13,cloudy,hot,normal,weak,Yes
+14,rainy,mild,high,Strong,No
